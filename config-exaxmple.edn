@@ -1,0 +1,3 @@
+{:github-username "<GITHUB USERNAME>"
+ :auth-token "<AUTH-TOKEN FOR USERNAME>"
+ :organization-name "<ORG NAME>"}

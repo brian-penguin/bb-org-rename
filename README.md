@@ -20,3 +20,9 @@ Break up each action into a series of scripts
 1. Update Repo with new default branch
 1. Delete master branch
 
+Setup:
+- Install Babashka https://github.com/babashka/babashka
+- Get a github personal auth token https://github.com/settings/tokens
+- copy the example config to config.edn 
+
+- run ./scripts/download_repos.clj to download_repos
