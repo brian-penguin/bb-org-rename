@@ -28,11 +28,11 @@
         status (:status response)
         headers (:headers response)]
     ; For debugging
-    (prn "RESPONSE ------------")
-    (pprint status)
+    ;(prn "RESPONSE ------------")
+    ;(pprint status)
     ;(pprint headers)
     ;(pprint (first body))
-    (prn "--------------------")
+    ;(prn "--------------------")
     body))
 
 
